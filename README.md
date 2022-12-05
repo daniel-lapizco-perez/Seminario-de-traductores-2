@@ -13,7 +13,7 @@ y con esto saber si es que el token es válido o no más delante en el proceso d
 A continuación se muestra la lista de tokens con la que se estará trabjando
 </p>
 
-#Imagen del lexico
+[Image Text] (https://github.com/daniel-lapizco-perez/Seminario-de-traductores-2/blob/main/Capturas/Tokens.png)
 
 <h5>Etapa 2: Analizador Sintactico</h5>
 
